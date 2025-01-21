@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("student linked list")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49a6fecd51e23a737385be128fefe5dd2d61cd04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4be55598aeafe65dbf34e64c63d6fb23c0ad252b")]
 [assembly: System.Reflection.AssemblyProductAttribute("student linked list")]
 [assembly: System.Reflection.AssemblyTitleAttribute("student linked list")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
