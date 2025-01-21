@@ -1,0 +1,15 @@
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/bin/Debug/net8.0/student linked list
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/bin/Debug/net8.0/student linked list.deps.json
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/bin/Debug/net8.0/student linked list.runtimeconfig.json
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/bin/Debug/net8.0/student linked list.dll
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/bin/Debug/net8.0/student linked list.pdb
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/obj/Debug/net8.0/student linked list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/obj/Debug/net8.0/student linked list.AssemblyInfoInputs.cache
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/obj/Debug/net8.0/student linked list.AssemblyInfo.cs
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/obj/Debug/net8.0/student linked list.csproj.CoreCompileInputs.cache
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/obj/Debug/net8.0/student linked list.sourcelink.json
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/obj/Debug/net8.0/student linked list.dll
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/obj/Debug/net8.0/refint/student linked list.dll
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/obj/Debug/net8.0/student linked list.pdb
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/obj/Debug/net8.0/student linked list.genruntimeconfig.cache
+/Users/niroshan/Desktop/GUI_PROJECT/GUI/Student_Management_System/student linked list/student linked list/obj/Debug/net8.0/ref/student linked list.dll
